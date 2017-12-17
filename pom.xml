@@ -14,6 +14,11 @@
     <modules>
         <module>myrpc-registry</module>
         <module>myrpc-core</module>
+        <module>myrpc-sample-api</module>
+        <module>myrpc-sample-server</module>
+        <module>myrpc-server</module>
+        <module>myrpc-registry-zookeeper</module>
+        <module>myrpc-common</module>
     </modules>
 
 
